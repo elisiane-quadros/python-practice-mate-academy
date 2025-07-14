@@ -2,9 +2,8 @@
 
 Repositório com exercícios práticos, projetos e desafios realizados durante o curso **Python Fullstack** da [Mate Academy](https://mate.academy/). Contém projetos focados em lógica de programação, orientação a objetos (OOP), desenvolvimento de APIs com Django, práticas com Django ORM e consultas SQL, além de desafios de automação e aplicações web.
 
----
 
-## 🚀 O que você vai encontrar aqui
+## O que você vai encontrar aqui
 
 - Exercícios de lógica em Python
 - Projetos com orientação a objetos (OOP)
@@ -15,7 +14,6 @@ Repositório com exercícios práticos, projetos e desafios realizados durante o
 - Desafios extras de automação, scraping e boas práticas
 - Repositórios organizados por tema/projeto
 
----
 
 ## 🛠️ Como rodar os exercícios
 
@@ -35,9 +33,7 @@ pip install -r requirements.txt
 pytest
 ```
 
----
-
-## 📌 Organização do repositório
+## Organização do repositório
 
 ```
 python-practice-mate-academy/
@@ -50,27 +46,11 @@ python-practice-mate-academy/
 └── ... (outros projetos)
 ```
 
----
-
-## 👩‍💻 Sobre o curso
-
-Curso Fullstack Python com foco em:
-
-- Desenvolvimento prático desde o básico ao avançado
-- Projetos reais com correção e feedback de mentores
-- Aulas ao vivo e desafios semanais
-
-Mais informações em: [https://mate.academy/](https://mate.academy/)
-
----
-
 ## 📬 Contato
 
 **Elisiane Quadros**\
 [LinkedIn](https://www.linkedin.com/in/elisiane-quadros/)\
 Portfólio em construção!
-
----
 
 ## 📝 Licença
 
